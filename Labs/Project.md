@@ -30,14 +30,19 @@
 
 ## 프로젝트 문제
 - [1D EMA 데이터] [EMA 데이터를 이용한 우울증 예측하기](https://www.kaggle.com/t/55e0d4ef65a34a1fad43babc0ae041c1)
+  - [1번 설명 동영상](https://youtu.be/24CxiyFoSY0) 
   - 베이스라인_1(2점) / 베이스라인_2(4점) / 베이스라인_3(6점)
 - [1D 텍스트 데이터][Spam 문자 분류하기](https://www.kaggle.com/t/eb94cdb7a60b4395b1a6b6be0e04454b)
+  - [2번 설명 동영상](https://youtu.be/sjj5cfWPkVw)
   - 베이스라인_1(2점) / 베이스라인_2(4점) / 베이스라인_3(6점)
 - [1D 음성 데이터] [음성 기반 감정 분류기](https://www.kaggle.com/t/977f8474118a4536b18893b3c0cad230)
+  - [3번 설명 동영상](https://youtu.be/24CxiyFoSY0)
   - 베이스라인_1(2점) / 베이스라인_2(4점) / 베이스라인_3(6점)
 - [2D 영상 데이터] [영상 내 이상상황 검출하기](https://www.kaggle.com/t/9fabd67703544ef596ae38f4e18e9f6b)
+  - [4번 설명 동영상](https://youtu.be/r4rA7TWsMhk)
   - 베이스라인_1(2점) / 베이스라인_2(6점)
 - [3D 비디오 데이터] [비디오를 이용한 사람의 행동 분류기](https://www.kaggle.com/t/015190c379334be891a7d8e716167c6f)
+  - [5번 설명 동영상](https://youtu.be/Kjliisl9YTs)
   - 베이스라인_1(2점) / 베이스라인_2(6점)  
   
 ## 프로젝트 관련 질문
