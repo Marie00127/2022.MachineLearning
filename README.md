@@ -77,8 +77,11 @@
 | 13 | 데이터전처리 (2) |  | 2022.05.25 | [Youtube](https://youtu.be/9JsOVgU2ez0) |  | |
 | 13 | 데이터전처리 (2) |  | 2022.05.25 | [Youtube](https://youtu.be/Gz-7Nec4gUo) |  | |
 | * | 실습과제 (9)  | [과제설명서](https://github.com/sejongresearch/2022.MachineLearning/blob/main/Labs/13%EC%A3%BC%EC%B0%A8/Readme.md) | 2022.05.25 |  | 실습과제(9) 마감 (6/7) | |
-| 14 | 교차검증 | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC.pdf) | 2022.05.30 | [Youtube](https://youtu.be/ZXFsO9a88l4) |  | |
-| 14 | 교차검증 |  | 2022.05.30 | [Youtube](https://youtu.be/JldMstX7jrc) |  | |
+| 14 | 교차검증(이론) | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B14%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A1%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B3%E1%86%BC.pdf) | 2022.05.30 | [Youtube](https://youtu.be/ZXFsO9a88l4) |  | |
+| 14 | 교차검증(실습) |  | 2022.05.30 | [Youtube](https://youtu.be/JldMstX7jrc) |  | |
+| 15 | 앙상블(이론) | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB).pdf) | 2022.06.06 | [Youtube](https://youtu.be/LYlq_aojZbw) |  | |
+| 15 | 앙상블(실습) | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8)_1.pdf), [코드](https://github.com/sejongresearch/2022.MachineLearning/tree/main/Labs/15%EC%A3%BC%EC%B0%A8) | 2022.06.06 | [Youtube](https://youtu.be/N4ESxaYJ4yk) |  | |
+| 15 | 앙상블(실습) | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8)_2.pdf) | 2022.06.06 | [Youtube](https://youtu.be/E4v-mMbjCjw) |  | |
 
 
 
