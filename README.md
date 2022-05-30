@@ -82,6 +82,7 @@
 | 15 | 앙상블(이론) | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A9%E1%86%AB).pdf) | 2022.06.06 | [Youtube](https://youtu.be/LYlq_aojZbw) |  | |
 | 15 | 앙상블(실습) | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8)_1.pdf), [코드](https://github.com/sejongresearch/2022.MachineLearning/tree/main/Labs/15%EC%A3%BC%EC%B0%A8) | 2022.06.06 | [Youtube](https://youtu.be/N4ESxaYJ4yk) |  | |
 | 15 | 앙상블(실습) | [PDF](https://github.com/sejongresearch/2022.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B15%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%E1%84%87%E1%85%B3%E1%86%AF(%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8)_2.pdf) | 2022.06.06 | [Youtube](https://youtu.be/E4v-mMbjCjw) |  | |
+| * | 실습과제 (10)  | AutoML 준비중 | 2022.06.06 |  | 실습과제(10) 마감 (6/12) | |
 
 
 
